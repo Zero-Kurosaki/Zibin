@@ -4,7 +4,7 @@
   <h3 align="center">Zibin</h3>
 
   <p align="center">
-    Zibin is a advanced discord music bot with yt support
+    Zibin is a advanced discord music bot based on WaveMusic
     <br />
     <br />
     <a href="[https://discord.gg/F3gnzGgEB2">Report Bug</a>
