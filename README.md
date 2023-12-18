@@ -7,9 +7,9 @@
     Zibin is a advanced discord music bot with yt support
     <br />
     <br />
-    <a href="https://dsc.gg/tec-yt">Report Bug</a>
+    <a href="[https://discord.gg/F3gnzGgEB2">Report Bug</a>
     ·
-    <a href="https://dsc.gg/tec-yt">Request Feature</a>
+    <a href="https://discord.gg/mGuD55xKKZ">Request Feature</a>
   </p>
 </p>
 <!-- ABOUT THE PROJECT -->
