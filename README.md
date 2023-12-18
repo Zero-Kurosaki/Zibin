@@ -1,10 +1,10 @@
 
   </a>
 
-  <h3 align="center">TEC-Music</h3>
+  <h3 align="center">Zibin</h3>
 
   <p align="center">
-    WaveMusic is  a powerful music Bot
+    Zibin is a advanced discord music bot with yt support
     <br />
     <br />
     <a href="https://dsc.gg/tec-yt">Report Bug</a>
