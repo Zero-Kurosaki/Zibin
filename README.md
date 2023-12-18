@@ -7,7 +7,7 @@
     Zibin is a advanced discord music bot based on WaveMusic
     <br />
     <br />
-    <a href="[https://discord.gg/F3gnzGgEB2">Report Bug</a>
+    <a href="https://discord.gg/F3gnzGgEB2">Report Bug</a>
     ·
     <a href="https://discord.gg/mGuD55xKKZ">Request Feature</a>
   </p>
